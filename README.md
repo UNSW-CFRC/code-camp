@@ -9,15 +9,15 @@ Welcome! This is the repository for the interactive Jupyter notebooks that will 
 Geographic Data Analysis.
 
 The topics include:
-- [Notebook-1: Thinking like a Computer](notebook-1 Thinking like a Computer.ipynb)
-- [Notebook-2: The Basics](notebook-2 The Basics.ipynb)
-- [Notebook-3: Dealing with Errors & Debugging](notebook-3 Dealing with Errors & Debugging.ipynb)
-- [Notebook-4: Truth & Conditions](notebook-4 Truth & Conditions.ipynb)
-- [Notebook-5: Lists and Dictionaries](notebook-5 Lists.ipynb)
-- [Notebook-6: Dictionaries](notebook-6 Dictionaries.ipynb)
-- [Notebook-7: Loops & Iteration](notebook-7 Loops and Iteration.ipynb)
-- [Notebook-8: An Intro to Functions](notebook-8 Introduction to Functions.ipynb)
-- [Notebook-9: Wrapping Up](notebook-9 Wrapping Up.ipynb)
+- [Notebook-1: Thinking like a Computer](notebook-1%20Thinking%20like%20a%20Computer.ipynb)
+- [Notebook-2: The Basics](notebook-2%20The%20Basics.ipynb)
+- [Notebook-3: Dealing with Errors & Debugging](notebook-3%20Dealing%20with%20Errors%20& Debugging.ipynb)
+- [Notebook-4: Truth & Conditions](notebook-4%20Truth%20&%20Conditions.ipynb)
+- [Notebook-5: Lists and Dictionaries](notebook-5%20Lists.ipynb)
+- [Notebook-6: Dictionaries](notebook-6%20Dictionaries.ipynb)
+- [Notebook-7: Loops & Iteration](notebook-7%20Loops%20and%20Iteration.ipynb)
+- [Notebook-8: An Intro to Functions](notebook-8%20Introduction%20to%20Functions.ipynb)
+- [Notebook-9: Wrapping Up](notebook-9%20Wrapping%20Up.ipynb)
 
 
 ### Learning Outcomes
